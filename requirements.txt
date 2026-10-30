@@ -1,0 +1,2 @@
+# Core simulation uses only the Python standard library.
+# Optional plotting: matplotlib>=3.7
